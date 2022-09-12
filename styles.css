@@ -1,5 +1,14 @@
 .fondohumaya {
     background-image: url(./IMAGENES/Central/imagenCentral.png);
+    background-size: cover;
+    height: 87vh;
+}
+
+.cabecera {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .botonConocenos {}
